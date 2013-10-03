@@ -1,0 +1,20 @@
+From c1f6c62238fbcd0cf333769a445d92f839cdb963 Mon Sep 17 00:00:00 2001
+From: yoshiaki <kinko912000@gmail.com>
+Date: Thu, 3 Oct 2013 14:11:58 +0900
+Subject: [PATCH] format-patch test
+
+---
+ sample.html | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 sample.html
+
+diff --git a/sample.html b/sample.html
+new file mode 100644
+index 0000000..0ceab97
+--- /dev/null
++++ b/sample.html
+@@ -0,0 +1 @@
++format-patch
+-- 
+1.7.12.4 (Apple Git-37)
+
