@@ -1,0 +1,3 @@
+[submodule "yoshiaki"]
+	path = yoshiaki
+	url = git://github.com/kinko912000/yoshiaki.git
